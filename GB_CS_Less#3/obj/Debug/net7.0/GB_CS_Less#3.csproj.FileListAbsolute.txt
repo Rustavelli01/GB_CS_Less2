@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains\GitEdication\GB_Seminas_7.07.2023\GB_CS_Less#3\bin\Debug\net7.0\GB_CS_Less#3.exe
+C:\Users\User\Desktop\GeekBrains\GitEdication\GB_Seminas_7.07.2023\GB_CS_Less#3\bin\Debug\net7.0\GB_CS_Less#3.deps.json
+C:\Users\User\Desktop\GeekBrains\GitEdication\GB_Seminas_7.07.2023\GB_CS_Less#3\bin\Debug\net7.0\GB_CS_Less#3.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains\GitEdication\GB_Seminas_7.07.2023\GB_CS_Less#3\bin\Debug\net7.0\GB_CS_Less#3.dll
+C:\Users\User\Desktop\GeekBrains\GitEdication\GB_Seminas_7.07.2023\GB_CS_Less#3\bin\Debug\net7.0\GB_CS_Less#3.pdb
+C:\Users\User\Desktop\GeekBrains\GitEdication\GB_Seminas_7.07.2023\GB_CS_Less#3\obj\Debug\net7.0\GB_CS_Less#3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains\GitEdication\GB_Seminas_7.07.2023\GB_CS_Less#3\obj\Debug\net7.0\GB_CS_Less#3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains\GitEdication\GB_Seminas_7.07.2023\GB_CS_Less#3\obj\Debug\net7.0\GB_CS_Less#3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains\GitEdication\GB_Seminas_7.07.2023\GB_CS_Less#3\obj\Debug\net7.0\GB_CS_Less#3.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains\GitEdication\GB_Seminas_7.07.2023\GB_CS_Less#3\obj\Debug\net7.0\GB_CS_Less#3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains\GitEdication\GB_Seminas_7.07.2023\GB_CS_Less#3\obj\Debug\net7.0\GB_CS_Less#3.dll
+C:\Users\User\Desktop\GeekBrains\GitEdication\GB_Seminas_7.07.2023\GB_CS_Less#3\obj\Debug\net7.0\refint\GB_CS_Less#3.dll
+C:\Users\User\Desktop\GeekBrains\GitEdication\GB_Seminas_7.07.2023\GB_CS_Less#3\obj\Debug\net7.0\GB_CS_Less#3.pdb
+C:\Users\User\Desktop\GeekBrains\GitEdication\GB_Seminas_7.07.2023\GB_CS_Less#3\obj\Debug\net7.0\GB_CS_Less#3.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains\GitEdication\GB_Seminas_7.07.2023\GB_CS_Less#3\obj\Debug\net7.0\ref\GB_CS_Less#3.dll
